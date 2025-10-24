@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-something here in our area
-=======
-something here in my code
->>>>>>> e6544df95d5bcc9ceebb5033ae5d5da0694d8e50
+help
